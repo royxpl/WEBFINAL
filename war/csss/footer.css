@@ -1,0 +1,57 @@
+
+.footerdos{
+	background:#2c2e83;
+
+}
+
+
+.footerdos{
+	margin-top: 10px;
+	margin-top: 0px;
+
+}
+.barrauno{
+	background: #ececec;
+}
+
+.footer-container {
+	margin-top: 20px;
+}
+ .footer-container .footerdos .row .bloqueuno h4 {
+	font:600 18px/22px "Open Sans",sans-serif;
+	color: #fff;
+	margin:0 0 13px 0;
+	cursor: pointer;
+}
+
+ .footer-container .footerdos .row .bloqueuno li a {
+	font-weight: bold;
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.4);
+	color:#039de8;
+	text-decoration: none;
+}
+
+
+
+ .footer-container .footerdos  .bloquedos h4 {
+	color: #fff;
+	margin:0 0 13px 0;
+	cursor: pointer;
+}
+
+.footer-container .footerdos .bloquedos li a {
+	font-weight: bold;
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.4);
+	color:#039de8;
+}
+.footer-container .footerdos .bloquedos li {
+	color:#039de8;
+	font-weight: normal;
+}
+
+
+.footer-container .footerdos .bloquedos li span{
+	color: #fff;
+	font-weight: normal;
+}
+

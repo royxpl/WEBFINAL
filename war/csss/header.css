@@ -1,0 +1,112 @@
+.aux1 	 {
+  /*float: right;*/
+}
+.container{
+
+}
+#banner{
+background: #2c2e83;
+
+}
+#banner .row div a{
+float: left;
+text-decoration: none;
+}
+#banner .row div   a{
+ color:#fff;
+ font-weight: bold;
+ display: block;
+ padding: 8px 9px 11px 8px;
+ cursor: pointer;
+ line-height: 18px;
+}
+
+.colorr{
+
+background-color: #2c2e83;
+  
+}
+
+.colorlogo #banner .container  .row  li {
+	height: 30px;
+}
+
+.colorlogo #banner .container  .row  li a{
+	text-align: left;
+	color: #ffffff;
+	display: block;
+	
+	
+	background: #2c2e83;
+
+ height: 30px;
+
+} 
+.colorlogo #banner .container  .row  li a:hover{
+
+	color:#b2afd2;
+	display: block;
+
+
+} 
+
+
+
+
+.colorlogo{
+background: #fff;
+}
+.navbar {
+background: #fff;
+margin-bottom: 5px;
+
+}
+.container .navbar {
+	border-radius: none;
+
+}
+.container .navbar{
+	background: #fff;
+	/*margin-left: 350px;*/
+}
+
+.container .navbar #menu ul li a{
+	font:600 12px/16px "open sans", sans-serif;
+	text-transform: uppercase;
+	color: #ffffff;
+	display: block;
+	padding: 10px 20px;
+	border-bottom: 3px solid #33a9e0;
+	border-left: 2px solid #fff;
+	background: #2c2e83;
+
+
+  transition: 1.0s ease;
+ 		-moz-transition: 1.0s ease; /* Firefox */
+ 		-webkit-transition: 1.0s ease; /* Chrome - Safari */
+ 		-o-transition: 1.0s ease; /* Opera */
+}
+.container .navbar #menu ul li a:hover{
+	opacity: 0.7;
+	background: #2c2e83;
+	color: #ffffff;
+     border-bottom: 3px solid #e03333;
+}
+
+
+
+.container .navbar  #menu   .barra {
+	background:#fff;
+
+}
+
+.container .navbar  #menu   .barra  a{
+	
+	text-decoration: none;
+	color:#777;
+	border-bottom:  0px;
+
+
+}
+
+

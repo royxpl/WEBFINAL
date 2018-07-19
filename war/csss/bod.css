@@ -1,0 +1,81 @@
+
+
+.container .row #col-der .row div a{
+	color: #277575;
+
+	
+}
+
+.container .row #col-der .row #fondo {
+  opacity: none;
+  position: relative;
+
+  transition: 1.0s ease;
+ 		-moz-transition: 1.0s ease; /* Firefox */
+ 		-webkit-transition: 1.0s ease; /* Chrome - Safari */
+ 		-o-transition: 1.0s ease; /* Opera */
+}
+
+
+.container .row #col-der .row #fondo:hover{
+  opacity: 0.9;
+  position: relative;
+
+  transform : scale(1.02);
+		-moz-transform : scale(1.02); /* Firefox */
+		-webkit-transform : scale(1.02); /* Chrome - Safari */
+		-o-transform : scale(1.02); /* Opera */
+		-ms-transform : scale(1.02); /* IE9 */
+}
+
+
+
+
+
+.container .row #col-der #categoria .row #fond {
+  opacity: none;
+  position: relative;
+
+  transition: 1.0s ease;
+ 		-moz-transition: 1.0s ease; /* Firefox */
+ 		-webkit-transition: 1.0s ease; /* Chrome - Safari */
+ 		-o-transition: 1.0s ease; /* Opera */
+}
+
+
+.container .row #col-der #categoria .row   #fond :hover{
+  opacity: 0.9;
+  position: relative;
+
+  transform : scale(1.005);
+		-moz-transform : scale(1.005); /* Firefox */
+		-webkit-transform : scale(1.005); /* Chrome - Safari */
+		-o-transform : scale(1.005); /* Opera */
+		-ms-transform : scale(1.005); /* IE9 */
+}
+
+
+.container .row #col-izq #menu ul li a{
+  text-align: center;
+  font:600 12px/16px "open sans", sans-serif;
+  text-transform: uppercase;
+  color: #ffffff;
+  display: block;
+  padding: 10px 20px;
+  border-bottom: 3px solid #33a9e0;
+  border-left: 2px solid #fff;
+  background: #2c2e83;
+
+
+  transition: 1.0s ease;
+    -moz-transition: 1.0s ease; /* Firefox */
+    -webkit-transition: 1.0s ease; /* Chrome - Safari */
+    -o-transition: 1.0s ease; /* Opera */
+}
+.container .row #col-izq #menu ul li a:hover{
+  opacity: 0.7;
+  background: #2c2e83;
+  color: #ffffff;
+     border-bottom: 3px solid #e03333;
+}
+
